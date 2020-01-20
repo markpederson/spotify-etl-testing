@@ -1,0 +1,2 @@
+- `spotify_api.py`: extract tracks from spotify and store them in `files/tracks_df.csv`
+- `spotify_mysql.py`: load `files/tracks_df.csv` to MySQL 
